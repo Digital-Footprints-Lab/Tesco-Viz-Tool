@@ -2,7 +2,7 @@ import json
 import pandas as pd
 from pprint import pprint
 from pandas import json_normalize
-import geopandas
+# import geopandas
 from rapidfuzz import fuzz, process
 
 # import plotly.express as px
